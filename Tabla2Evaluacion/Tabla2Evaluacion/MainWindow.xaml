@@ -1,0 +1,59 @@
+﻿<Window x:Class="Tabla2Evaluacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" 
+        Height="568" Width="856"
+        WindowStyle="None" 
+        AllowsTransparency="True"
+        Background="Transparent">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+              
+                <ResourceDictionary Source="Diccionario.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid >
+      
+        <Border Background="#242424"
+                CornerRadius="10"  >
+            
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top">
+                    <Button Content="_" Width="23" Height="23" Margin="0,0,0,0" Style="{StaticResource BotonVerdeRedondo}" Click="Minimizar_Click"/>
+                    <Button Content="X" Width="23" Height="23" Margin="10"  Style="{StaticResource BotonVerdeRedondo}" Click="Cerrar_Click"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,350">
+                    <TextBlock Width="411" Height="77"  FontSize="64" FontFamily="Inter" FontWeight="Bold" 
+           Foreground="#5DB85B">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="#5DB85B" BlurRadius="7.5" ShadowDepth="0"/>
+                        </TextBlock.Effect>
+    NORTHWIND
+                    </TextBlock>
+                    <Image Source="Images/bdd.png" Width="78" Height="78" Margin="25,0,0,30">
+                        <Image.Effect>
+                            <DropShadowEffect Color="#FFFFFF" BlurRadius="10.1" ShadowDepth="0"/>
+                        </Image.Effect>
+                    </Image>
+
+                </StackPanel>
+
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,60,0,0">
+                    
+                    <TextBlock Text="Usuario" Style="{StaticResource LetrasPeq}"  Margin="0,0,0,10" />
+                    <TextBox x:Name="txtUsuario" Width="250" Style="{StaticResource LineaEscribir}" Margin="0,0,0,20"/>
+
+                   
+                    <TextBlock Text="Contraseña"   Style="{StaticResource LetrasPeq}" />
+                    <PasswordBox x:Name="txtContraseña" Width="250" Margin="0,10,0,0" Style="{StaticResource LineaContraseña}"/>
+
+                  
+                    <Button Content="Entrar" Width="130" Height="40" Margin="0,60,0,0" Style="{StaticResource Botones}" Click="btnLogin_Click"/>
+                    
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

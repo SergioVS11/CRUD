@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\bdd.png" />
+    <None Remove="Images\lapizverde.png" />
+    <None Remove="Images\papeleraVerde.png" />
+    <None Remove="Images\Vector %281%29.png" />
+    <None Remove="Images\Vector %282%29.png" />
+    <None Remove="Images\Vector %283%29.png" />
+    <None Remove="Images\Vector %284%29.png" />
+    <None Remove="Images\Vector %285%29.png" />
+    <None Remove="Images\Vector %286%29.png" />
+    <None Remove="Images\Vector %287%29.png" />
+    <None Remove="Images\Vector %288%29.png" />
+    <None Remove="Images\Vector.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bdd.png" />
+    <Resource Include="Images\lapizverde.png" />
+    <Resource Include="Images\papeleraVerde.png" />
+    <Resource Include="Images\Vector (1).png" />
+    <Resource Include="Images\Vector (2).png" />
+    <Resource Include="Images\Vector (3).png" />
+    <Resource Include="Images\Vector (4).png" />
+    <Resource Include="Images\Vector (5).png" />
+    <Resource Include="Images\Vector (6).png" />
+    <Resource Include="Images\Vector (7).png" />
+    <Resource Include="Images\Vector (8).png" />
+    <Resource Include="Images\Vector.png" />
+  </ItemGroup>
+
+</Project>
