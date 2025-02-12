@@ -52,16 +52,29 @@ namespace Tabla2Evaluacion
 
         private void Volver_Click(object sender, RoutedEventArgs e)
         {
-            using (MySqlConnection conn = conexion.GetConnection())
+            try
             {
-                if (conn.State == ConnectionState.Open)
+                using (MySqlConnection conn = conexion.GetConnection())
                 {
-                    conn.Close();
+                    if (conn != null && conn.State == ConnectionState.Open)
+                    {
+                        conn.Close();
+                    }
                 }
-            }
 
-           
+               
+                MainWindow mainWindow = new MainWindow();
+                mainWindow.Show();
+
+              
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al cerrar la conexión: " + ex.Message);
+            }
         }
+
 
 
     }

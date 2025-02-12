@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,8 +15,32 @@
       "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\modificar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\diccionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -37,30 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\borrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\borrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|solutionrelative:tabla2evaluacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C86EA5-D73A-4502-A70C-ABA0D7D78FA9}|Tabla2Evaluacion\\Tabla2Evaluacion.csproj|c:\\users\\sergi\\source\\repos\\tabla2evaluacion\\tabla2evaluacion\\modificar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -105,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Conexion.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Conexion.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Conexion.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Conexion.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Conexion.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwJAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T12:27:29.124Z",
               "EditorCaption": ""
@@ -186,12 +186,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Borrar.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Borrar.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Borrar.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Borrar.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Borrar.xaml.cs*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Borrar.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Borrar.xaml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwDoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T19:34:44.358Z",
@@ -199,15 +199,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Borrar.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Borrar.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Borrar.xaml",
               "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Borrar.xaml",
               "RelativeToolTip": "Tabla2Evaluacion\\Borrar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T17:55:45.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:55:45.135Z"
             },
             {
               "$type": "Document",
@@ -223,12 +222,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Modificar.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Modificar.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Modificar.xaml.cs*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Modificar.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:50:34.342Z",
@@ -240,20 +239,19 @@
               "Title": "Modificar.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Modificar.xaml",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Modificar.xaml*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Modificar.xaml",
+              "RelativeToolTip": "Tabla2Evaluacion\\Modificar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T11:45:30.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:45:30.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Agregar.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Agregar.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Agregar.xaml.cs*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Agregar.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:42:46.843Z",
@@ -261,40 +259,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Agregar.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Agregar.xaml",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Agregar.xaml*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Agregar.xaml",
+              "RelativeToolTip": "Tabla2Evaluacion\\Agregar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T16:22:45.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T16:22:45.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Inicio.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Inicio.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Inicio.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Inicio.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Inicio.xaml.cs*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Inicio.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Inicio.xaml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAswBEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T11:10:35.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T11:10:35.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Inicio.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Inicio.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Inicio.xaml",
               "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Inicio.xaml",
               "RelativeToolTip": "Tabla2Evaluacion\\Inicio.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T11:06:42.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T11:06:42.012Z"
             },
             {
               "$type": "Document",
@@ -306,25 +301,24 @@
               "RelativeToolTip": "Tabla2Evaluacion\\Tabla2Evaluacion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T11:06:20.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T11:06:20.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Window2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Window2.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Window2.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Window2.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Window2.xaml.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Window2.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\Window2.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:27:34.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Window2.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Window2.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Window2.xaml",
@@ -336,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\App.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\App.xaml",
@@ -348,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\AssemblyInfo.cs",
@@ -356,8 +350,7 @@
               "RelativeToolTip": "Tabla2Evaluacion\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:25:43.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:25:43.443Z"
             },
             {
               "$type": "Document",
@@ -373,37 +366,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Diccionario.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Diccionario.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\Diccionario.xaml",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Diccionario.xaml*",
-              "RelativeToolTip": "Tabla2Evaluacion\\Diccionario.xaml*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\Diccionario.xaml",
+              "RelativeToolTip": "Tabla2Evaluacion\\Diccionario.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-31T15:43:47.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml*",
-              "RelativeToolTip": "Tabla2Evaluacion\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml",
+              "RelativeToolTip": "Tabla2Evaluacion\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-31T14:45:18.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Tabla2Evaluacion\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "Tabla2Evaluacion\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\Tabla2Evaluacion\\Tabla2Evaluacion\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tabla2Evaluacion\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T14:45:06.442Z",
               "EditorCaption": ""
